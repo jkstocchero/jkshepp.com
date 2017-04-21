@@ -26,6 +26,8 @@ img {
 
 .site-logo-row {
   min-height: 200px;
+  background-color: rgb(77, 182, 172);
+
 }
 
 .is-compact .site-logo-row {
@@ -33,11 +35,12 @@ img {
 }
 
 .site-logo {
-  background: url(../img/site-logo.png) 50% no-repeat;
+  background: url(../img/jo-logo-pic.jpg) 50% no-repeat;
   background-size: cover;
   height: 120px;
   width: 120px;
   margin: 15px auto;
+  border-radius: 50%;
 }
 
 .is-compact .site-logo {
@@ -47,7 +50,7 @@ img {
 }
 
 .site-navigation-row {
-  background-color: rgba(0, 0, 0, 0.08);
+  background-color: rgb(0, 150, 136);
   text-transform: uppercase;
   height: 45px;
 }
