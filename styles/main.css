@@ -165,6 +165,8 @@ img {
 
 .homepage-portfolio .mdl-button {
   margin: 0 auto;
+  background-color: #FF6216;
+  color: #fff;
 }
 
 .homepage-footer {
@@ -219,6 +221,8 @@ img.article-image {
   margin-right: 40px;
   margin-bottom: 40px;
   z-index: 900;
+  background-color: #FF6216;
+  color: #fff;
 }
 
 footer .mdl-logo a {
