@@ -1,3 +1,7 @@
+Joell Shepperson portfolio-card
+
+My page is built using Material Design for grid-system and layout. All images and details are my own!
+
 **Material Design Portfolio Template**
 v1.0.1
 Released Date: 24th Jan, 2017
