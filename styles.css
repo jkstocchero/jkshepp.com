@@ -303,9 +303,8 @@ a img{
 
 .android-wear-section {
   position: relative;
-  background: url('images/wear.png') center top no-repeat;
   background-size: cover;
-  height: 800px;
+  height: 275px;
 }
 
 .android-wear-band {
@@ -313,7 +312,7 @@ a img{
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: #37474f;
+  background-color: #333333;
 }
 
 .android-wear-band-text {
@@ -374,7 +373,7 @@ a img{
   }
 
 .android-customized-section-image {
-  background: url('images/devices.jpg') center top no-repeat;
+  background: url('images/joell-process.jpg') center top no-repeat;
   background-size: cover;
   height: 400px;
 }
