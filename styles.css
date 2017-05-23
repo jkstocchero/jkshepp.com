@@ -121,7 +121,8 @@ a img{
   }
 
     .android-navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #8bc34a;
+      border-bottom: 4px solid #03A9F4;
+      color: #03A9F4;
     }
 
   .android-search-box {
@@ -329,11 +330,11 @@ a img{
 
 .android-link {
   text-decoration: none;
-  color: #8bc34a !important;
+  color: #03A9F4 !important;
 }
 
   .android-link:hover {
-    color: #7cb342 !important;
+    color: #03A9F4 !important;
   }
 
   .android-link .material-icons {
@@ -344,12 +345,12 @@ a img{
 
 .android-alt-link {
   text-decoration: none;
-  color: #64ffda !important;
+  color: #03A9F4 !important;
   font-size: 16px;
 }
 
   .android-alt-link:hover {
-    color: #00bfa5 !important;
+    color: #03A9F4 !important;
   }
 
   .android-alt-link .material-icons {
@@ -362,7 +363,7 @@ a img{
 }
 
 .android-customized-section-text {
-  max-width: 500px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   padding: 80px 16px 0 16px;
@@ -373,7 +374,7 @@ a img{
   }
 
 .android-customized-section-image {
-  background: url('images/joell-process.jpg') center top no-repeat;
+  background-color: #efefef;
   background-size: cover;
   height: 400px;
 }
@@ -434,7 +435,7 @@ a img{
 }
 
   .android-footer a:hover {
-    color: #8bc34a;
+    color: #03A9F4;
   }
 
   .android-footer .mdl-mega-footer--top-section::after {
