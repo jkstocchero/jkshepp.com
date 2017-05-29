@@ -172,10 +172,19 @@ a img{
 
 .android-be-together-section {
   position: relative;
-  height: 800px;
+  height: 700px;
   width: auto;
   background-color: #f3f3f3;
   background: url('images/jowelcome.jpg') center 30% no-repeat;
+  background-size: cover;
+}
+
+.android-be-together-section-process {
+  position: relative;
+  height: 700px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url('images/joell-process.png') center 30% no-repeat;
   background-size: cover;
 }
 
