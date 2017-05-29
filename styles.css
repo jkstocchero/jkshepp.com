@@ -364,17 +364,18 @@ a img{
 
 .android-customized-section {
   text-align: center;
+  padding: 50px 350px 50px 350px;
 }
 
 .android-customized-section-text {
-  max-width: 600px;
+  max-width: 300px;
   margin-left: auto;
   margin-right: auto;
-  padding: 80px 16px 0 16px;
+  padding: 180px 16px 0 16px;
 }
 
   .android-customized-section-text p {
-    padding-top: 16px;
+    padding-top: 50px;
   }
 
 .android-customized-section-image {
