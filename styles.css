@@ -188,13 +188,17 @@ a img{
 
 .android-slogan {
   font-size: 60px;
-  padding-top: 160px;
+  padding-top: 300px;
+  text-align: center;
+  vertical-align: middle;
   color: #ffffff;
 }
 
 .android-sub-slogan {
   font-size: 21px;
-  padding-top: 24px;
+  padding-top: 50px;
+  text-align: center;
+  vertical-align: middle;
   color: #efefef;
 }
 
