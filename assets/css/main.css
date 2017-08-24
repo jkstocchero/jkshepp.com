@@ -4097,7 +4097,7 @@
 			top: 0;
 			left: 0;
 			border-radius: 0;
-			opacity: 0.5;
+			opacity: 0.4;
 		}
 
 			.banner.style5 .image img {
@@ -6745,7 +6745,8 @@
 				}
 
 			.gallery.style2 article:hover .caption {
-				opacity: 1;
+				background-color: #000000;
+				opacity: 0.80;
 			}
 
 		@media screen and (max-width: 980px) {
