@@ -2448,6 +2448,11 @@
 
 /* Image */
 
+	.shrinkImg {
+		height: 70%;
+		width: auto;
+	}
+
 	.image {
 		border: 0;
 		border-radius: 4px;
