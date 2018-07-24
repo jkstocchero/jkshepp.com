@@ -1,11 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-/*
-	Story by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 /* Reset */
 
@@ -6187,7 +6183,7 @@
 		}
 
 			.gallery.style1 a:hover {
-				color: #47D3E5;
+				color: #222B35;
 			}
 
 		.gallery.style1 strong, .gallery.style1 b {
@@ -6195,7 +6191,7 @@
 		}
 
 		.gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-			color: #ffffff;
+			color: #DEA6E3;
 		}
 
 		.gallery.style1 blockquote {
@@ -6268,6 +6264,7 @@
 
 		.gallery.style1 > .forward, .gallery.style1 > .backward {
 			display: none;
+			color: #DEA6E3;
 		}
 
 		.gallery.style1 > .inner {
@@ -6321,10 +6318,10 @@
 				-webkit-flex-direction: column;
 				-ms-flex-direction: column;
 				flex-direction: column;
-				-moz-justify-content: center;
-				-webkit-justify-content: center;
-				-ms-justify-content: center;
-				justify-content: center;
+				-moz-justify-content: flex-start;
+				-webkit-justify-content: flex-start;
+				-ms-justify-content: flex-start;
+				justify-content: flex-start;
 				-moz-pointer-events: none;
 				-webkit-pointer-events: none;
 				-ms-pointer-events: none;
@@ -6338,9 +6335,9 @@
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: rgba(0, 0, 0, 0.5);
+				background-color: #222B35;
 				opacity: 0;
-				padding: 2rem;
+				padding: 1rem;
 				z-index: 1;
 				font-size: 0.8rem;
 			}
@@ -6353,8 +6350,8 @@
 				}
 
 				.gallery.style1 article .caption h2, .gallery.style1 article .caption h3, .gallery.style1 article .caption h4, .gallery.style1 article .caption h5, .gallery.style1 article .caption h6 {
-					font-size: 1.25rem;
-					margin-bottom: 0.25rem;
+					font-size: 1.15rem;
+					margin-bottom: 0.15rem;
 				}
 
 				.gallery.style1 article .caption > * {
@@ -6367,7 +6364,7 @@
 				}
 
 			.gallery.style1 article:hover .caption {
-				opacity: 1;
+				opacity: .95;
 			}
 
 		@media screen and (max-width: 1280px) {
@@ -6557,7 +6554,7 @@
 			.gallery.style2 button:hover,
 			.gallery.style2 .button:hover {
 				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				color: #DEA6E3 !important;
 			}
 
 			.gallery.style2 input[type="submit"]:active,
@@ -6567,7 +6564,7 @@
 			.gallery.style2 .button:active {
 				background-color: rgba(71, 211, 229, 0.2);
 				box-shadow: inset 0 0 0 1px #47D3E5;
-				color: #47D3E5 !important;
+				color: #DEA6E3 !important;
 			}
 
 			.gallery.style2 input[type="submit"].special,
