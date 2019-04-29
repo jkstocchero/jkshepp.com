@@ -1,6 +1,11 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,500,500i,900,900i");
 
+
+/* Joell Styles */
+.brandColor {
+	color: #304ffe;
+}
 
 
 /* Reset */
@@ -1677,10 +1682,10 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 1rem;
+		font-family: "Roboto", sans-serif;
+		font-size: 20px;
 		font-weight: 300;
-		line-height: 1.65;
+		line-height: 1.75;
 	}
 
 	a {
@@ -1705,10 +1710,16 @@
 
 	p {
 		margin: 0 0 2rem 0;
+		letter-spacing: .025rem;
+		font-weight: 200;
 	}
 
 		p.major {
-			font-size: 1.25rem;
+			font-size: 1.5rem;
+		}
+		p.majorSubhead {
+			font-size: 1.15rem;
+			font-weight: 300;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1724,12 +1735,15 @@
 		}
 
 	h1 {
-		font-size: 3.5rem;
-		line-height: 1.2;
+		font-size: 3rem;
+		line-height: 1.25;
+		letter-spacing: .05rem;
 	}
 
 	h2 {
-		font-size: 2.25rem;
+		font-size: 2rem;
+		letter-spacing: .075rem;
+		font-weight: 400;
 	}
 
 	h3 {
