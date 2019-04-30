@@ -6205,7 +6205,10 @@
 		}
 
 		.gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-			color: #DEA6E3;
+			color: #ffffff;
+			font-weight: 500;
+			letter-spacing: 1.5px;
+			border-bottom: solid 2px #7b7cff;
 		}
 
 		.gallery.style1 blockquote {
@@ -6349,7 +6352,7 @@
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: #222B35;
+				background-color: #212121;
 				opacity: 0;
 				padding: 1rem;
 				z-index: 1;
@@ -6378,7 +6381,7 @@
 				}
 
 			.gallery.style1 article:hover .caption {
-				opacity: .95;
+				opacity: 1;
 			}
 
 		@media screen and (max-width: 1280px) {
