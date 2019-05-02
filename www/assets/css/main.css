@@ -4892,7 +4892,7 @@
 		@media screen and (max-width: 1680px) {
 
 			.spotlight.style2 {
-				padding: 5rem 5rem 3rem 5rem ;
+				padding: 2rem 3rem 1rem 3rem ;
 			}
 
 		}
@@ -4900,7 +4900,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.spotlight.style2 {
-				padding: 4rem 4rem 2rem 4rem ;
+				padding: 2rem 3rem 1rem 3rem ;
 			}
 
 		}
@@ -4908,7 +4908,7 @@
 		@media screen and (max-width: 980px) {
 
 			.spotlight.style2 {
-				padding: 3.75rem 3rem 1.75rem 3rem ;
+				padding: 2rem 3rem 1rem 3rem ;
 			}
 
 				.spotlight.style2 .image {
